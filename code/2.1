@@ -1,0 +1,17 @@
+package main
+
+import "fmt"
+
+func parityChecker(a int) {
+	if a%2 == 0 {
+		fmt.Println("четное")
+	} else {
+		fmt.Println("нечетное")
+	}
+}
+
+func main() {
+	var digit int
+	fmt.Scan(&digit)
+	parityChecker(digit)
+}

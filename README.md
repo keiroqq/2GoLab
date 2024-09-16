@@ -13,8 +13,12 @@
 
 4. Написать функцию, которая принимает строку и возвращает ее длину.
 
+![image](https://github.com/user-attachments/assets/357b92b3-6e4d-4116-b55a-882450cc35b4)
 
 5. Создать структуру Rectangle и реализовать метод для вычисления площади прямоугольника.
 
+![image](https://github.com/user-attachments/assets/cac060c4-2a43-4f17-b7dd-a41669b99a95)
 
 6. Написать функцию, которая принимает два целых числа и возвращает их среднее значение.
+
+![image](https://github.com/user-attachments/assets/942c37a7-07a4-4346-affa-d788a5f0627f)

@@ -1,0 +1,20 @@
+package main
+
+import "fmt"
+
+func signChecker(a int) {
+	if a < 0 {
+		fmt.Println("Negative")
+	} else if a == 0 {
+		fmt.Println("Zero")
+	} else {
+		fmt.Println("Positive")
+	}
+
+}
+
+func main() {
+	var digit int
+	fmt.Scan(&digit)
+	signChecker(digit)
+}
